@@ -16,6 +16,7 @@
 - 🌐 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
+![Java](https://img.shields.io/badge/-R-333333?style=flat&logo=Java)
 
 - 💻 &#160; ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=Tensorflow)
