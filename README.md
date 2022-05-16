@@ -1,6 +1,5 @@
 ## Hello GitHub Fans 👋
 [![Blog](https://img.shields.io/badge/Blog-neohub.cn-red.svg "Blog")](https://neohub.cn "Blog")
-[![Docs](https://img.shields.io/badge/Docs-docs.neohub.cn-red.svg "Docs")](https://docs.neohub.cn "Docs")
 [![EMail](https://img.shields.io/badge/EMail-bitneo@outlook.com-red.svg "EMail")](mailto:bitneo@outlook.com)
 ---
 
