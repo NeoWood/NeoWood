@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 [![Blog](https://img.shields.io/badge/Blog-neowood.org-red.svg "Blog")](https://neowood.org "Blog")
-[![EMail](https://img.shields.io/badge/EMail-cvneo@outlook.com-red.svg "EMail")](mailto:cvneo@outlook.com)
+[![EMail](https://img.shields.io/badge/EMail-admin@neowood.org-red.svg "EMail")](mailto:admin@neowood.org)
 ---
 
 
